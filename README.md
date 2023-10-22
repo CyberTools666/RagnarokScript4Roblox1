@@ -1,2 +1,0 @@
-# cyberddos
-Roblox script
